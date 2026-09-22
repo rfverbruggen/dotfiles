@@ -1,3 +1,3 @@
-oh-my-posh --init --shell pwsh --config ~/.rfverbruggen.omp.json | Invoke-Expression
+oh-my-posh --init --shell pwsh | Invoke-Expression
 
 Clear-Host
